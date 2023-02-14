@@ -12,9 +12,9 @@ Contraseña:  *sin contraseña*
 
 ### Base de datos
 
-Abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql"
+Dentro de MySQL Workbench (o su herramienta de preferencia) abra el script SQL que se encuentra en la carpeta principal,
 
-y ejecutelo dentro del servidor creado. Listo!
+de nombre "generarBaseDeDatos.sql" y ejecutelo dentro del servidor creado. Listo!
 
 ## Menu de Usuario:
 Utilizar admin en ambos campos
