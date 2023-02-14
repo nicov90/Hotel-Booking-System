@@ -1,5 +1,5 @@
-CREATE DATABASE hotel_alura1;
-USE hotel_alura1;
+CREATE DATABASE hotel_alura;
+USE hotel_alura;
 
 CREATE TABLE reservas(
 	ID INT NOT NULL,
