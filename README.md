@@ -12,8 +12,9 @@ Contraseña:  *sin contraseña*
 
 ### Base de datos
 
-Abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql" y ejecutelo.
-Listo!
+Abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql"
+
+y ejecutelo dentro del servidor creado. Listo!
 
 ## Menu de Usuario:
 Utilizar admin en ambos campos
