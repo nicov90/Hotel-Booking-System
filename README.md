@@ -1,23 +1,27 @@
 # Sistema Hotelero: Gestión de Reservas
 ![principal](https://user-images.githubusercontent.com/83422731/218875270-ce83899a-5eaf-418d-a81d-74106e5693a0.png)
 
-**Aclaración importante!!!**: 
+**Aclaración importante**: 
 Esta aplicación utiliza una base de datos local MySQL, por lo tanto debe crear su propia base de datos de la siguiente manera:
 
 ### Servidor
 
+Dentro de MySQL Workbench (o su herramienta de preferencia) cree una conexión con estos valores.
+
 Usuario:  *root*
 
-Contraseña:  *sin contraseña*
+Contraseña:  *(no tiene)*
 
 ### Base de datos
 
-Abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql"
+Dentro de MySQL Workbench, abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql", ejecutelo dentro del servidor creado y listo!
 
-y ejecutelo dentro del servidor creado. Listo!
+### Ejecución
+
+Para ejecutar la aplicación, se recomienda hacerlo desde el archivo MenuPrincipal.java ubicado en src/views desde un IDE. **(El .jar no está disponible de momento)**
 
 ## Menu de Usuario:
-Utilizar admin en ambos campos
+**Utilizar admin en ambos campos**
 
 ![menuUsuario](https://user-images.githubusercontent.com/83422731/218875433-059473da-b581-43e5-ae42-e9b2d54474c6.png)
 
