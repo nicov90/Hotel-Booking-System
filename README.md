@@ -16,6 +16,8 @@ Contraseña:  *(no tiene)*
 
 Dentro de MySQL Workbench, abra el script SQL que se encuentra en la carpeta principal, de nombre "generarBaseDeDatos.sql", ejecutelo dentro del servidor creado y listo!
 
+### Ejecución
+
 Para ejecutar la aplicación, se recomienda hacerlo desde el archivo MenuPrincipal.java ubicado en src/views desde un IDE. **(El .jar no está disponible de momento)**
 
 ## Menu de Usuario:
